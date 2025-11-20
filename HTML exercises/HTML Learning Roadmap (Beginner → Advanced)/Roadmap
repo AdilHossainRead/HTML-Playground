@@ -1,0 +1,115 @@
+✅ HTML Learning Roadmap (Beginner → Advanced)
+
+🔰 Step 1: HTML Basics
+✔ শিখতে হবে:
+What is HTML?
+Structure of an HTML Document (<!DOCTYPE>, <html>, <head>, <body>)
+Basic Tags
+<h1>–<h6>, <p>, <br>, <a>, <img>, <hr>
+Text formatting
+<b>, <strong>, <i>, <em>, <u>, <mark>
+Attributes
+src, href, alt, title, id, class
+
+🎯 Practice:
+নিজের নাম, ছবি, লিঙ্ক দিয়ে একটা simple webpage বানান।
+
+
+🧱 Step 2: Page Structure & Layout
+✔ শিখতে হবে:
+Semantic tags
+<header>, <nav>, <main>, <section>, <article>, <footer>
+Lists
+<ul>, <ol>, <li>
+Tables
+<table>, <tr>, <td>, <th>, <caption>
+Div & Span
+<div>, <span>
+
+🎯 Practice:
+Semantic layout দিয়ে simple landing page বানান।
+
+
+📄 Step 3: Forms & Inputs
+✔ শিখতে হবে:
+<form> structure
+Input fields:
+text, password, email, number, radio, checkbox, file, date
+<select>, <option>
+<textarea>
+Form validation attributes:
+required, min, max, maxlength, pattern
+
+🎯 Practice:
+Login form
+Registration form
+Contact form
+
+
+🎨 Step 4: Media & Embedding
+✔ শিখতে হবে:
+<audio>, <video>
+<iframe>
+Embedding YouTube videos
+Adding Google Maps
+
+⚡ Step 5: HTML5 Advanced Features
+✔ শিখতে হবে:
+<canvas> basics
+Inline SVG
+Meta tags
+Geolocation API (concept only)
+LocalStorage / SessionStorage (with simple example)
+
+📁 Step 6: Folder Structure & Best Practices
+✔ শিখতে হবে:
+assets/ css/ js/ images/ structure
+Clean indentation & comments
+File naming conventions
+SEO-friendly HTML basics
+
+🔗 Step 7: Version Control (Git + GitHub)
+✔ শিখতে হবে:
+git init
+git add .
+git commit -m "Initial commit"
+git branch
+git push
+Repository setup
+README creation
+
+🎯 Practice:
+আপনার সব HTML প্রজেক্ট GitHub-এ আপলোড করতে শুরু করুন।
+
+🛠️ Step 8: Build Projects (Very Important)
+Starter Projects:
+Personal Bio Page
+Simple Portfolio
+Product Card
+Login/Signup Page
+Navigation Menu
+Landing Page Template
+Image Gallery
+Pricing Table
+FAQ Section
+Intermediate Projects:
+Multi-page Website
+Blog Layout
+Resume Template
+Form validation example
+Dashboard layout (HTML structure only)
+
+🛡 Step 9: Security Concepts (Basic HTML Security Awareness)
+(HTML দিয়ে cyber security শিখতে সাহায্য করবে)
+✔ শিখুন:
+XSS (Cross-Site Scripting) কীভাবে হয়?
+Input sanitization idea
+HTML Injection
+iframe security concepts (sandbox, allow attributes)
+
+🚀 Step 10: Learn CSS + JS Afterwards
+
+HTML একা শিখলে frontend complete নয়। তাই এরপর এগুলো করবেন:
+CSS (layout, responsive)
+JavaScript (DOM, events)
+GitHub Pages (hosting)
