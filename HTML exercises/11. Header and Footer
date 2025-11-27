@@ -1,1 +1,38 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to use header and footer block</title>
+</head>
+
+<body>
+    <header style="background-color: aquamarine;">
+        <h1><b>Welcome to my Github account!</b></h1> &nbsp;
+        <a href=" store home page link">Home</a> &nbsp;
+        <a href="Store details about service">About</a> &nbsp;
+        <a href="store product list">Product</a> &nbsp;
+        <a href="store contact method">Contact</a> &nbsp;
+        <hr>
+    </header>
+
+    <main style="background-color: lightgray;">
+        <h2>This is main block</h2>
+        <image src="D:\HTML\HTML exercise\How to add icon\download (1).jpeg" alr="this is a picture"></image>
+        <p>This is the main content of the webpage. Here you can add text, images, videos, and other elements that make
+            up the core of your webpage.</p>
+
+    </main>
+
+    <footer style="background-color: aquamarine;">
+        <hr>
+        author: Md. Adil Hossain <br>
+        Email:adilhossain1100@gmail.com <br>
+        &copy; 2025 All rights reserved.
+
+    </footer>
+</body>
+
+</html>
